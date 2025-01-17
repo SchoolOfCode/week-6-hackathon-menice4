@@ -1,5 +1,5 @@
-# Project Name
-Feathers McGraw's great cheese heist 
+# Feathers McGraw's great cheese heist 
+
 ## Overview
 
 This project is designed to create a function that helps Feathers McGraw identify and select the most valuable cheeses from a list of items. The goal is to filter through a list, find the cheeses with the highest value, and then calculate their total worth. This challenge is aimed at beginners, helping players understand how to manipulate and filter data within an array, store the relevant items separately, and then perform calculations on them, such as adding up their total value. It's a practical exercise in working with arrays and filtering data in JavaScript.
